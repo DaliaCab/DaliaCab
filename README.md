@@ -12,14 +12,12 @@
 <p align="center">💻 Fullstack Software Developer | Cybersecurity & Applied AI enthusiast · 📍 Bogotá, Colombia</p>
 
 ---
-<img src="https://raw.githubusercontent.com/Minitals/Minitals/main/assets/cat.gif" width="50" align="middle" />
-
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Minitals/Minitals/main/assets/cat.gif" width="45" align="middle" /> About me
+  <img src="https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg" width="350" alt="About me illustration" />
 </p>
 
-## <img src="https://media0.giphy.com/media/IMSoMxTToDsg8/giphy.gif" width="35" align="middle" /> About me
+## About me
 
 I am a Software Analysis and Development Technologist (**SENA**) with a strong passion for building robust backend and frontend systems. I specialize in **Python (FastAPI)**, **JavaScript/TypeScript**, **Flutter**, **Firebase**, and **React**. 
 

@@ -17,7 +17,7 @@
   <img src="https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg" width="350" alt="About me illustration" />
 </p>
 
-## <img src="https://media2.giphy.com/media/D5GyCFKlnbJlu/giphy.gif" width="35" align="middle" /> About me
+## <img src="https://i.imgur.com/8Q6vYpP.gif" width="35" align="middle" /> About me
 
 I am a Software Analysis and Development Technologist (**SENA**) with a strong passion for building robust backend and frontend systems. I specialize in **Python (FastAPI)**, **JavaScript/TypeScript**, **Flutter**, **Firebase**, and **React**. 
 

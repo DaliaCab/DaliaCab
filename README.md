@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif" width="30" align="middle" />
+  <img src="[https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif](https://giphy.com/gifs/flower-darcieolley-darciedraws-8RkY0nYXHhxnTykGDn)" width="30" align="middle" />
   Hi, I'm Dalia Cabieles 
-  <img src="https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif" width="30" align="middle" />
+  <img src="[https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif](https://giphy.com/gifs/flower-darcieolley-darciedraws-8RkY0nYXHhxnTykGDn)" width="30" align="middle" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,11 @@
 
 ---
 
-## 🚀 About me
+<p align="center">
+  <img src="https://i.pinimg.com/736x/b6/8b/2c/b68b2c261adedf079e41b7aa3108e362.jpg" width="350" alt="About me illustration" />
+</p>
+
+##  About me
 
 I am a Software Analysis and Development Technologist (**SENA**) with a strong passion for building robust backend and frontend systems. I specialize in **Python (FastAPI)**, **JavaScript/TypeScript**, **Flutter**, **Firebase**, and **React**. 
 

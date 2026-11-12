@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Minitals/Minitals/main/assets/cat.gif" width="50" align="middle" /> alt="About me illustration" />
+  <img src="https://raw.githubusercontent.com/Minitals/Minitals/main/assets/cat.gif" width="45" align="middle" /> About me
 </p>
 
 ## <img src="https://media0.giphy.com/media/IMSoMxTToDsg8/giphy.gif" width="35" align="middle" /> About me

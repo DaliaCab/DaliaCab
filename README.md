@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="[https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif](https://giphy.com/gifs/flower-darcieolley-darciedraws-8RkY0nYXHhxnTykGDn)" width="30" align="middle" />
+  <img src="https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif](https://giphy.com/gifs/flower-darcieolley-darciedraws-8RkY0nYXHhxnTykGDn" width="30" align="middle" />
   Hi, I'm Dalia Cabieles 
-  <img src="[https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif](https://giphy.com/gifs/flower-darcieolley-darciedraws-8RkY0nYXHhxnTykGDn)" width="30" align="middle" />
+  <img src="https://media.giphy.com/media/2WksMLwrjvTgOcCF8Z/giphy.gif](https://giphy.com/gifs/flower-darcieolley-darciedraws-8RkY0nYXHhxnTykGDn" width="30" align="middle" />
 </h1>
 
 <p align="center">
